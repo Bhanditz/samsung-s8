@@ -800,3 +800,29 @@ img {
   word-break: break-word;
 }
 /* end: Footer */
+
+
+
+/* bottom page */
+.container-sm {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.bottom-page {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #171717;
+  background-image: url("http://image.samsung.com/vn/smartphones/galaxy-note8/images/buy-now_banner_galaxy-note8.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+.bottom-page .bottom-page-title {
+  color: white;
+  font-size: 23px;
+  font-weight: normal;
+  line-height: 1.6;
+  margin-bottom: 40px;
+  font-family: 'SamsungOne', arial;
+}

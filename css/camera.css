@@ -1,228 +1,183 @@
 /*phần dear*/
 
 .dear1 {
-    position: relative;
-    clear: both;
-    background: black;
+  position: relative;
+  clear: both;
+  background: black;
 }
 
 .dear1 .anh {
-    position: absolute;
-    z-index: 2;
-    top: 44%;
-    margin: 0 auto;
-    left: 0;
-    right: 0;
-    margin-right: 48px;
-   
+  position: absolute;
+  z-index: 2;
+  top: 44%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  margin-right: 48px;
 }
 
 .dear1 .noidung {
-    position: absolute;
-    left: 0;
-    right: 0;
-    text-align: center;
-    margin-top: -99%;
-    z-index: 2;
-    font-size: 24px;
-    color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin-top: -99%;
+  z-index: 2;
+  font-size: 24px;
+  color: white;
 }
 
 .dear1 .noidung .title-sm {
-    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
-    font-size: 30px;
-    margin-bottom: -44px;
-    margin-top: -5%;
+  font-family: 'SamsungSharpSans', 'SamsungOne', arial, arial;
+  font-size: 30px;
+  margin-bottom: -44px;
+  margin-top: -5%;
 }
 
 .dear1 .noidung .title {
-    font-size: 60px;
-    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
-    margin-bottom: 25px;
+  font-size: 60px;
+  font-family: 'SamsungSharpSans', 'SamsungOne', arial, arial;
+  margin-bottom: 25px;
 }
 
 .dear1 .noidung .description {
-    font-size: 24px;
-    margin-top: 4%;
-    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
-    margin-bottom: -20px;
-
+  font-size: 24px;
+  margin-top: 4%;
+  font-family: 'SamsungSharpSans', 'SamsungOne', arial, arial;
+  margin-bottom: -20px;
 }
 
 .dear1 .noidung .title1 {
-    font-family: 'SamsungOne',arial;  
-    margin-bottom: 35%;    
-    font-size: 40px;  
+  font-family: 'SamsungOne', arial;
+  margin-bottom: 35%;
+  font-size: 40px;
 }
 
 .dear1 .noidung .title2 {
-    font-family: 'SamsungOne',arial;
-    font-size: 18px;
+  font-family: 'SamsungOne', arial;
+  font-size: 18px;
 }
 
 .dear1 .noidung .tilte3 {
-    font-size: 18px;
+  font-size: 18px;
 }
 
-.icon{
-    display: block;
-    text-align: center;
+.icon {
+  display: block;
+  text-align: center;
 }
 
-.icon .icon-type{
-    font-size: 12px;
-    padding-left: 0;
+.icon .icon-type {
+  font-size: 12px;
+  padding-left: 0;
 }
 
-.icon .icon-type .a{
-    padding: 0;
-    margin: 0;
-    display: inline-table;
-    width: 170px;
-    text-align: center;
-    vertical-align: top;
+.icon .icon-type .a {
+  padding: 0;
+  margin: 0;
+  display: inline-table;
+  width: 170px;
+  text-align: center;
+  vertical-align: top;
 }
 
-.icon .icon-type .a .b{
-    font-size: 14px;
-    line-height: 20px;
-    color: #fff;
-    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
-    margin-top: 18px;
-    padding: 0 10px;
-    margin: 0;
-    padding: 0;
+.icon .icon-type .a .b {
+  font-size: 14px;
+  line-height: 20px;
+  color: #fff;
+  font-family: 'SamsungSharpSans', 'SamsungOne', arial, arial;
+  margin-top: 18px;
+  padding: 0 10px;
+  margin: 0;
+  padding: 0;
 }
 
-.dear1 .icon .icon-type .a img{
-}
+.dear1 .icon .icon-type .a img {}
+
 
 /*dear2*/
 
 .dear2 {
-    background: black;
-    text-align: center;
+  background: black;
+  text-align: center;
 }
 
-.dear2 .anh3 {
-}
+.dear2 .anh3 {}
 
 .dear2 .noidung {
-   max-width: 840px;
-   padding-top: 22%;
-   font-size: 20px;
-   line-height: 30px;
-   color: white;
-   margin-left: 22%;
-   padding-bottom: 50px;
+  max-width: 840px;
+  padding-top: 22%;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+  margin-left: 22%;
+  padding-bottom: 50px;
 }
 
-.dear2 .noidung .title-sm{
-    font-size: 24px;   
-    margin-bottom: -42px; 
+.dear2 .noidung .title-sm {
+  font-size: 24px;
+  margin-bottom: -42px;
 }
 
-.dear2 .noidung .title{
-    font-size: 40px;
-    margin-bottom: 31px;
+.dear2 .noidung .title {
+  font-size: 40px;
+  margin-bottom: 31px;
 }
 
-.dear2 .noidung .description{
-    font-size: 18px;
-    margin-bottom: 16px;        
+.dear2 .noidung .description {
+  font-size: 18px;
+  margin-bottom: 16px;
 }
 
-.dear2 .noidung .description1{
-    font-size: 16px;
-    margin-bottom: 46px;
+.dear2 .noidung .description1 {
+  font-size: 16px;
+  margin-bottom: 46px;
 }
 
 .dear3 {
-    text-align: center;
-    background: black;
-    height: 900px;
+  text-align: center;
+  background: black;
+  height: 900px;
 }
 
 .dear3 .noidung1 {
-    max-width: 840px;
-    padding-top: 6%;
-    font-size: 20px;
-    line-height: 30px;
-    color: white;
-    margin-left: 22%;
+  max-width: 840px;
+  padding-top: 6%;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+  margin-left: 22%;
 }
 
 .dear3 .anh4 {
-    position: absolute;
+  position: absolute;
 }
 
-.dear3 .title-sm1{
-    font-size: 24px;
-    line-height: 26px;
-    margin-bottom: -47px;
-    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+.dear3 .title-sm1 {
+  font-size: 24px;
+  line-height: 26px;
+  margin-bottom: -47px;
+  font-family: 'SamsungSharpSans', 'SamsungOne', arial, arial;
 }
 
-.dear3 .title1{
-    font-size: 40px;
-    line-height: 46px;
-    margin-bottom: 29px;
-    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+.dear3 .title1 {
+  font-size: 40px;
+  line-height: 46px;
+  margin-bottom: 29px;
+  font-family: 'SamsungSharpSans', 'SamsungOne', arial, arial;
 }
 
-.dear3 .description1{
-    font-size: 18px;
-    line-height: 25px;
-    margin-bottom: 12px;
+.dear3 .description1 {
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 12px;
 }
 
-.dear3 .description2{
-    font-size: 16px;
-    margin-bottom: 19px;
+.dear3 .description2 {
+  font-size: 16px;
+  margin-bottom: 19px;
 }
+
 
 /*end*/
-.container-sm {
-    max-width: 1300px;
-    margin: 0 auto;
-}
 
-.end {
-    padding-top: 100px;
-    padding-bottom: 100px;
-    background-color: #171717;
-    background-image: url("http://image.samsung.com/vn/smartphones/galaxy-note8/images/buy-now_banner_galaxy-note8.jpg");
-    background-repeat: no-repeat;
-    background-position: bottom right;
-}
-
-.end .xxx{
-    color: white;
-    font-size: 23px;
-    font-weight: normal;
-    line-height: 1.6;
-    margin-bottom: 40px;
-    font-family: 'SamsungOne',arial;
-}
-.wrap-btn-buy-now1 {
-    padding-left: 40px;
-    padding-right: 40px;
-    height: 50px;
-    line-height: 50px;
-    font-size: 12px;
-    letter-spacing: 2.1px;
-    font-weight: bold;
-    transition: all .35s ease-in-out;
-    display: inline-block;
-    text-align: center;
-    background-color: transparent;
-    cursor: pointer;
-    border-width: 1px;
-    border-style: solid;
-    text-transform: uppercase;
-    border-radius: 58px;
-    box-sizing: border-box;
-    color: #fff;
-    border-color: #fff;
-    text-decoration: none;
-  }
